@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a passionate frontend developer with a focus on building interactive and dynamic web applications. Below you'll find information about me.
 
-## About Me
+## 😄 About Me
 
 I am a frontend developer with a keen interest in creating seamless user experiences. I specialize in building applications using modern web technologies and enjoy working on projects that challenge me to learn and grow. When I'm not coding, I love exploring new technologies and sharing knowledge with the community.
 
@@ -50,14 +50,17 @@ I am a frontend developer with a keen interest in creating seamless user experie
 ![End2End Testing](https://img.shields.io/badge/End2End_Testing-17A2B8?style=for-the-badge&logo=testing&logoColor=white)
 
 
-## Get in Touch
+## 📫 Get in Touch
 
 - **LinkedIn:** [https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/fadipe-rukayat/
 - **Twitter:** https://x.com/Elysium96/
 - **Email:** fadiperukayat16@gmail.com
 
+## 🔭 Goals for 2024
 
-## Let's Connect!
+Improve Skills
+
+## 👯 Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing innovative ideas. Feel free to reach out to me!
 
