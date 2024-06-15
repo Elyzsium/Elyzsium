@@ -52,7 +52,8 @@ I am a frontend developer with a keen interest in creating seamless user experie
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/fadipe-rukayat/
+- **Portfolio:** https://elysium-portfolio-latest.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/fadipe-rukayat/
 - **Twitter:** https://x.com/Elysium96/
 - **Email:** fadiperukayat16@gmail.com
 
