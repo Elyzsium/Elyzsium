@@ -51,7 +51,10 @@ I am a frontend developer with a keen interest in creating seamless user experie
 
 ### Testing
 
-## My GitHub Stats ⚡
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-6E5494?style=for-the-badge&logo=testing&logoColor=white)
+![End2End Testing](https://img.shields.io/badge/End2End_Testing-17A2B8?style=for-the-badge&logo=testing&logoColor=white)
+
+## GitHub Stats ⚡
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elyzsium&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's Top Languages" />
@@ -61,8 +64,6 @@ I am a frontend developer with a keen interest in creating seamless user experie
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elyzsium&background=1b2430&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=32CD32&dates=70A5FD&currStreakNum=BF91F3&sideNums=38BDAE" alt="Elyzsium's GitHub Streak" /></p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elyzsium&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📫 Get in Touch
@@ -102,6 +103,9 @@ Description: A brief description of the project, what it does, and the technolog
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?elyzsium=elyzsium&layout=compact&theme=radical)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elyzsium&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
