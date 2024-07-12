@@ -58,7 +58,7 @@ I am a frontend developer with a keen interest in creating seamless user experie
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6E5494?style=for-the-badge&logo=testing&logoColor=white)
 ![End2End Testing](https://img.shields.io/badge/End2End_Testing-17A2B8?style=for-the-badge&logo=testing&logoColor=white)
 
-## GitHub Stats ⚡
+## ⚡ GitHub Stats 
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elyzsium&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's Top Languages" />
