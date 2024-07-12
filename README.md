@@ -51,7 +51,7 @@ I am a frontend developer with a keen interest in creating seamless user experie
 
 ### Testing
 
-## Hi there, I'm Elyzsium 👋
+## My GitHub Stats ⚡
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elyzsium&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's Top Languages" />
