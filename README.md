@@ -51,13 +51,16 @@ I am a frontend developer with a keen interest in creating seamless user experie
 
 ### Testing
 
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-6E5494?style=for-the-badge&logo=testing&logoColor=white)
-![End2End Testing](https://img.shields.io/badge/End2End_Testing-17A2B8?style=for-the-badge&logo=testing&logoColor=white)
+## Hi there, I'm Elyzsium 👋
 
-![Elyzsium's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elyzsium&show_icons=true&theme=radical&title_color=1b2430&text_color=32CD32&icon_color=32CD32)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyzsium&layout=compact&theme=radical&title_color=1b2430&text_color=32CD32&icon_color=32CD32)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elyzsium&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's Top Languages" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Elyzsium&theme=radical)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elyzsium&show_icons=true&locale=en&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elyzsium&background=1b2430&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=32CD32&dates=70A5FD&currStreakNum=BF91F3&sideNums=38BDAE" alt="Elyzsium's GitHub Streak" /></p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elyzsium&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
