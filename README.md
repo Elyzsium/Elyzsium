@@ -55,10 +55,9 @@ I am a frontend developer with a keen interest in creating seamless user experie
 ![End2End Testing](https://img.shields.io/badge/End2End_Testing-17A2B8?style=for-the-badge&logo=testing&logoColor=white)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyzsium&layout=compact&theme=radical)
-
-![Elyzsium's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elyzsium&show_icons=true&theme=radical)
+![Elyzsium's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elyzsium&show_icons=true&theme=radical&bg_color=00000000&title_color=32CD32&text_color=32CD32&icon_color=32CD32)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyzsium&layout=compact&theme=radical&bg_color=00000000&title_color=32CD32&text_color=32CD32&icon_color=32CD32)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Elyzsium&theme=radical)](https://git.io/streak-stats)
 
