@@ -58,17 +58,6 @@ I am a frontend developer with a keen interest in creating seamless user experie
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6E5494?style=for-the-badge&logo=testing&logoColor=white)
 ![End2End Testing](https://img.shields.io/badge/End2End_Testing-17A2B8?style=for-the-badge&logo=testing&logoColor=white)
 
-## ⚡ GitHub Stats 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elyzsium&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elyzsium&show_icons=true&locale=en&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elyzsium&background=1b2430&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=32CD32&dates=70A5FD&currStreakNum=BF91F3&sideNums=38BDAE" alt="Elyzsium's GitHub Streak" /></p>
-
-
 
 ## 📫 Get in Touch
 
@@ -90,6 +79,17 @@ I'm always open to collaborating on interesting projects or discussing innovativ
 <!--
 **Elyzsium/Elyzsium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Profile Picture](https://github.com/yourusername/yourusername/blob/main/profile.jpg)
+
+## ⚡ GitHub Stats 
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elyzsium&show_icons=true&locale=en&layout=compact&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's Top Languages" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elyzsium&show_icons=true&locale=en&bg_color=1b2430&text_color=32CD32" alt="Elyzsium's GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elyzsium&background=1b2430&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE&sideLabels=32CD32&dates=70A5FD&currStreakNum=BF91F3&sideNums=38BDAE" alt="Elyzsium's GitHub Streak" /></p>
+
 
 ## Projects
 
