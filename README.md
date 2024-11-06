@@ -5,7 +5,7 @@
 # Hi there, I'm Rukayat Fadipe 👋
 
 
-Welcome to my GitHub profile! I'm a passionate frontend developer with a focus on building interactive and dynamic web applications. Below you'll find information about me.
+Welcome to my GitHub profile! I'm a passionate frontend developer with a focus on building interactive and dynamic web applications. Below you'll find more information about me.
 
 ## 😄 About Me
 
